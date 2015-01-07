@@ -1,0 +1,44 @@
+{
+  "books": [
+    {
+      "English Title": "Escape from Camp 14",
+      "Release Year": "2013",
+      "ISBN-13": "978-0143122913"
+    },
+    {
+      "English Title": "Nothing to Envy",
+      "Release Year": "2010",
+      "ISBN-13": "978-0385523912"
+    },
+    {
+      "English Title": "The Aquariums of Pyongyang",
+      "Release Year": "2005",
+      "ISBN-13": "978-0465011049"
+    },
+    {
+      "English Title": "Without You, There Is No Us",
+      "Release Year": "2014",
+      "ISBN-13": "978-0307720658"
+    },
+    {
+      "English Title": "This is Paradise!: My North Korean Childhood",
+      "Release Year": "2007",
+      "ISBN-13": "978-0349118659"
+    },
+    {
+      "English Title": "Dear Leader: Poet, Spy, Escapee--A Look Inside North Korea",
+      "Release Year": "2014",
+      "ISBN-13": "978-1476766553"
+    },
+    {
+      "English Title": "The Real North Korea: Life and Politics in the Failed Stalinist Utopia",
+      "Release Year": "2014",
+      "ISBN-13": "978-0199390038"
+    },
+    {
+      "English Title": "Under the Loving Care of the Fatherly Leader: North Korea and the Kim Dynasty",
+      "Release Year": "2006",
+      "ISBN-13": "978-0312323226"
+    }
+  ]
+}
